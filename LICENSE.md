@@ -1,6 +1,27 @@
 # PolyForm Strict License 1.0.0
 
-<https://polyformproject.org/licenses/strict/1.0.0>
+This software is licensed under the [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0), with additional usage permissions for specific parties and purposes, as detailed below.
+
+---
+
+## THIRD-PARTY ASSETS
+
+This license notice does not apply to any third-party products, dependencies, or assets bundled with the software. Each such asset remains subject to its own license terms as provided in their respective directories or metadata files.
+
+---
+
+You are granted a **limited, non-exclusive, non-transferable, and non-commercial license** to use this software for the sole purpose of viewing the app demo (case 3) or accessing services provided by Pragyan School via authorized releases (case 1 and 2).
+
+You may **not**:
+
+- Modify, reverse-engineer, decompile, or extract source code
+- Redistribute, fork, or rehost the application or its components
+- Use the app’s contents or codebase in any derivative or competing work
+
+The source code remains protected under the PolyForm Strict License 1.0.0 and is **not free software** in the open-source sense.
+
+---
+
 
 ## Acceptance
 
