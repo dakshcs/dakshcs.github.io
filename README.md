@@ -14,7 +14,6 @@ You are granted a **limited, non-exclusive, non-transferable, and non-commercial
 
 You may **not**:
 
-- Modify, reverse-engineer, decompile, or extract source code
 - Redistribute, fork, or rehost the application or its components
 - Use the app’s contents or codebase in any derivative or competing work
 
