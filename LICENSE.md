@@ -10,7 +10,7 @@ This license notice does not apply to any third-party products, dependencies, or
 
 ---
 
-You are granted a **limited, non-exclusive, non-transferable, and non-commercial license** to use this software for the sole purpose of viewing the app demo (case 3) or accessing services provided by Pragyan School via authorized releases (case 1 and 2).
+You are granted a **limited, non-exclusive, non-transferable, and non-commercial license** to use this software for the sole purpose of viewing.
 
 You may **not**:
 
